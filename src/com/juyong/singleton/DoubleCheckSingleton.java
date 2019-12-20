@@ -1,4 +1,4 @@
-package com.juyong.Singleton;
+package com.juyong.singleton;
 
 /**
  * @Description: 双重检查单例
